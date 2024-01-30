@@ -1,1 +1,1 @@
-Hello gitHUB
+Hello, Hexlet! How are you?
